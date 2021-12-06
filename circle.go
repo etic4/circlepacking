@@ -6,9 +6,9 @@ import (
 	"math"
 	"math/rand"
 
+	qt "github.com/etic4/quadtree"
+	vec "github.com/etic4/vecmath"
 	rl "github.com/gen2brain/raylib-go/raylib"
-	qt "github.com/machinbrol/quadtree"
-	vec "github.com/machinbrol/vecmath"
 )
 
 type circle struct {

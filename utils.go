@@ -5,8 +5,8 @@ import (
 	"image/color"
 	"os"
 
-	qt "github.com/machinbrol/quadtree"
-	vec "github.com/machinbrol/vecmath"
+	qt "github.com/etic4/quadtree"
+	vec "github.com/etic4/vecmath"
 )
 
 func getWidthHeight(filename string) (int, int) {
