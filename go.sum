@@ -1,0 +1,6 @@
+github.com/gen2brain/raylib-go/raylib v0.0.0-20211114111602-29ba3cc50849 h1:/Z5Piqd55AAQxWS8oEPF1xgDVntA+W0HeEdsb5pbTVk=
+github.com/gen2brain/raylib-go/raylib v0.0.0-20211114111602-29ba3cc50849/go.mod h1:+NbsqGlEQqGqrsgJFF5Yj2dkvn0ML2SQb8RqM2hJsPU=
+github.com/machinbrol/quadtree v0.0.0-20211206153041-82d69ea21998 h1:i7bmt00dcYMIub/LTE0oWoVGsY4Cv6EcA+e6w9pH734=
+github.com/machinbrol/quadtree v0.0.0-20211206153041-82d69ea21998/go.mod h1:m31HlCZHG0Mi0PdTgHB6Wh6IfYQTVGH1oIjV/1FRcXs=
+github.com/machinbrol/vecmath v0.0.0-20211206152012-d1e23ba9444f h1:4BfmFmBFqi/Sk0F27E2atigjRSkk6rZhwXFTrop0S0Y=
+github.com/machinbrol/vecmath v0.0.0-20211206152012-d1e23ba9444f/go.mod h1:5e7RTOnddyY+4RuLYW0iuJfFGhwD1/qL8zmhgk30LQc=

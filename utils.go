@@ -6,7 +6,7 @@ import (
 	"os"
 
 	qt "github.com/machinbrol/quadtree"
-	vec "github.com/machinbrol/vecmaths"
+	vec "github.com/machinbrol/vecmath"
 )
 
 func getWidthHeight(filename string) (int, int) {
